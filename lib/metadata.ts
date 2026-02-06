@@ -133,7 +133,7 @@ export const metadata: Metadata = {
       fileSize: "4.2 MB",
       lastUpdated: "2024-01-15",
       pages: 45,
-      fileUrl: "https://drive.google.com/file/d/1ABC123DEF456GHI789JKL/view?usp=sharing"
+      fileUrl: "https://docs.google.com/presentation/d/1D2clLr-8bExyze9q-Ac5Ww0Zifx2e7nD/edit?usp=sharing&ouid=110297745837517809777&rtpof=true&sd=true"
     },
     {
       title: "Physics Formula Guide",
